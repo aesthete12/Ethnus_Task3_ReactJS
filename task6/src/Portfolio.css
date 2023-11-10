@@ -1,0 +1,53 @@
+body {
+    font-family: 'Cambria', sans-serif;
+    background-color: cyan; /* Set the background color to cyan */
+  }
+  
+  .portfolio-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: cyan; /* Set the container background color to cyan */
+  }
+  
+  header {
+    text-align: center;
+    background-color: cyan; /* Set the header background color to cyan */
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    font-size: 2em;
+    color: black; /* Set the text color to black */
+  }
+  
+  header p {
+    font-size: 1.2em;
+    color: black;
+  }
+  
+  .about-me,
+  .projects,
+  .contact {
+    margin-top: 30px;
+  }
+  
+  .projects .project,
+  .contact p {
+    margin-bottom: 15px;
+  }
+  
+  .project {
+    background-color: cyan; /* Set the project background color to cyan */
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  
+  .contact {
+    background-color: cyan; /* Set the contact section background color to cyan */
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
